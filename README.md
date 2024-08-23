@@ -5,7 +5,6 @@
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJvrbrNmrtdQHWtkFJnVntLQzmhKqWRVlxQlRkZGThWtZPSlqdfzGGpCwvmQQLkFJQtxsZg)
 [![Blog](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/BrunoGAlves/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGAlves&show_icons=true&theme=gruvbox)
 
 ## Tecnologias
 
